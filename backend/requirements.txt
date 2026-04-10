@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+python-dotenv
+pdfplumber
